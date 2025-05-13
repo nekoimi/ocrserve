@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "你好"
+    }
+  ],
+  "model": "default",
+  "session_id": "person_ou_109e4f278be6406aaaff97c0f2aa073b",
+  "conversation_id": null,
+  "msg_create_time": 1747021932181,
+  "user_message_text": "你好",
+  "open_id": "ou_109e4f278be6406aaaff97c0f2aa073b"
+}

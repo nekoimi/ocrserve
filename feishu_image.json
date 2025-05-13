@@ -1,0 +1,31 @@
+{
+  "schema": "2.0",
+  "header": {
+    "event_id": "24a274324f3b11c788779aedb46c405e",
+    "token": "I0634w4m7BHaEjJ18829GYMYmB4gaKYp",
+    "create_time": "1747122482917",
+    "event_type": "im.message.receive_v1",
+    "tenant_key": "1b7f72435fd2d75e",
+    "app_id": "cli_a8a87eaa78ba500e"
+  },
+  "event": {
+    "message": {
+      "chat_id": "oc_18a2de91ed1bf57e5db5a91e3f069280",
+      "chat_type": "p2p",
+      "content": "{\"image_key\":\"img_v3_02m8_663de9e7-b7a4-4b0c-8996-4378642db7fg\"}",
+      "create_time": "1747122482552",
+      "message_id": "om_x100b4d1bdde804fc0f1170a16b4bf1e",
+      "message_type": "image",
+      "update_time": "1747122482552"
+    },
+    "sender": {
+      "sender_id": {
+        "open_id": "ou_69aa4ab8e38cb11435a8c7040658f86b",
+        "union_id": "on_ff889dfdae4c9e349066cebe6771d879",
+        "user_id": null
+      },
+      "sender_type": "user",
+      "tenant_key": "1b7f72435fd2d75e"
+    }
+  }
+}
